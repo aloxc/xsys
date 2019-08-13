@@ -1,0 +1,11 @@
+Index: go.mod
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- go.mod	(date 1565660247778)
++++ go.mod	(date 1565660247778)
+@@ -0,0 +1,3 @@
++module github.com/aloxc/xsys
++
++go 1.12
